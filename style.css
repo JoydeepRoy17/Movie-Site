@@ -122,6 +122,7 @@ body {
 }
 
 .featured-content {
+  background-repeat: no-repeat;
   height: 50vh;
   padding: 50px;
 }
